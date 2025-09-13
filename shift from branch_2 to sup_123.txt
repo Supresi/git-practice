@@ -1,1 +1,0 @@
-Practice to use git stash... shift the changes from one branch to another for untracked file.
